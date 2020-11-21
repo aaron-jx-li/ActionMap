@@ -7,9 +7,9 @@ political events in their area as well as aggregate, share and view news items i
 
 </div>
 
-[![Build Status](https://travis-ci.com/ucberkeley/hw-action-map-ci.svg?token=8LjFnuAXBt4SAuz8Mkf8&branch=master)](https://travis-ci.com/ucberkeley/hw-action-map-ci)
+[![Build Status](https://travis-ci.com/cs169/hw-agile-iterations-fa20-101.svg?token=pGxeywHj49yzCyozAyMt&branch=master)](https://travis-ci.com/cs169/hw-agile-iterations-fa20-101)
 
-[![codecov](https://codecov.io/gh/ucberkeley/hw-action-map-ci/branch/master/graph/badge.svg?token=SGYCvQX4Us)](https://codecov.io/gh/ucberkeley/hw-action-map-ci)
+[![codecov](https://codecov.io/gh/cs169/hw-agile-iterations-fa20-101/branch/master/graph/badge.svg?token=FM69KWMUHV)](https://codecov.io/gh/cs169/hw-agile-iterations-fa20-101)
 
 ### Getting Setup Locally
 
